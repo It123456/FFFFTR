@@ -6,5 +6,7 @@ public class Test {
 		System.out.println("=====================================");
 		
 		System.out.println("=====================>"+"本人");
+		
+		System.out.println("====>+");
 	}
 }
